@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+BackEnd Engineer
+<img alt="HTML5" src="https://img.shields.io/badge/EA4335?style=for-the-badge&logo=html5&logoColor=white">
+
+<img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-8cbe68?style=for-the-badge&logo=MongoDB&logoColor=white">
+<img alt="AWS" src="https://img.shields.io/badge/Amazon AWS-f7f7f7?style=for-the-badge&logo=Amazon AWS&logoColor=f89400">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VolkaDemetrie&theme=merko&show_icons=true)
