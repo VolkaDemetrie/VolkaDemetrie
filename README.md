@@ -15,5 +15,12 @@ Here are some ideas to get you started:
 
 BackEnd Engineer
 
+<H3>
+  Mainly used
+</H3>
+<H4>Language</H4>
+<ul>
+  <li>Java</li>
+</ul>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VolkaDemetrie&theme=merko&show_icons=true)
