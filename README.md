@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-BackEnd Engineer
+<H1>BackEnd Engineer Junho Yun</H1>
 
 <H3>
-  Mainly used
+  Mainly used ----
 </H3>
 <H4>Language</H4>
 <ul>
