@@ -16,11 +16,32 @@ Here are some ideas to get you started:
 <H1>BackEnd Engineer Junho Yun</H1>
 
 <H3>
-  Mainly used ----
+  Mainly used
 </H3>
 <H4>Language</H4>
 <ul>
   <li>Java</li>
+</ul>
+<br>
+<H4>Server</H4>
+<ul>
+  <li>Nginx</li>
+  <li>Tomcat</li>
+</ul>
+<br>
+<H4>Framework</H4>
+<ul>
+  <li>Spring</li>
+  <li>Spring boot</li>
+</ul>
+<br/>
+
+<H3>
+  Sub
+</H3>
+<H4>Language</H4>
+<ul>
+  <li>Python</li>
 </ul>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VolkaDemetrie&theme=merko&show_icons=true)
