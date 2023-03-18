@@ -22,20 +22,16 @@ Here are some ideas to get you started:
 <ul>
   <li>Java</li>
 </ul>
-<br>
 <H4>Server</H4>
 <ul>
   <li>Nginx</li>
   <li>Tomcat</li>
 </ul>
-<br>
 <H4>Framework</H4>
 <ul>
   <li>Spring</li>
   <li>Spring boot</li>
 </ul>
-<br/>
-
 <H3>
   Sub
 </H3>
