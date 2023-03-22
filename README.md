@@ -17,22 +17,23 @@ Here are some ideas to get you started:
 
 <H3>Tech Stack</H3>
 <ul>
-<li>- Java</li>
-<li>- Python</li>
-<li>- Oracle</li>
-<li>- PostgreSQL</li>
-<li>- Spring Framework</li>
-<li>- FastAPI</li>
-<li>- Maven</li>
-<li>- Gradle</li>
-<li>- HTML</li>
-<li>- Javascript</li>
-<li>- Vue.js</li>
-<li>- Docker</li>
-<li>- Nginx</li>
-<li>- HAProxy</li>
-<li>- mybatis</li>
-<li>- Linux</li>
+  <li>Java</li>
+  <li>Python</li>
+  <li>Spring Framework</li>
+  <li>Oracle</li>
+  <li>PostgreSQL</li>
+
+  <li>FastAPI</li>
+  <li>Maven</li>
+  <li>Gradle</li>
+  <li>HTML</li>
+  <li>Javascript</li>
+  <li>Vue.js</li>
+  <li>Docker</li>
+  <li>Nginx</li>
+  <li>HAProxy</li>
+  <li>mybatis</li>
+  <li>Linux</li>
 </ul>
 
 
