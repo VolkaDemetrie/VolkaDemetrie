@@ -15,7 +15,28 @@ Here are some ideas to get you started:
 
 <H1>BackEnd Engineer Junho Yun</H1>
 
-<H3>
+<H3>Tech Stack</H3>
+<ul>
+<li>- Java</li>
+<li>- Python</li>
+<li>- Oracle</li>
+<li>- PostgreSQL</li>
+<li>- Spring Framework</li>
+<li>- FastAPI</li>
+<li>- Maven</li>
+<li>- Gradle</li>
+<li>- HTML</li>
+<li>- Javascript</li>
+<li>- Vue.js</li>
+<li>- Docker</li>
+<li>- Nginx</li>
+<li>- HAProxy</li>
+<li>- mybatis</li>
+<li>- Linux</li>
+</ul>
+
+
+<!--<H3>
   Mainly used
 </H3>
 <H4>Language</H4>
@@ -38,6 +59,6 @@ Here are some ideas to get you started:
 <H4>Language</H4>
 <ul>
   <li>Python</li>
-</ul>
+</ul>-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VolkaDemetrie&theme=merko&show_icons=true)
