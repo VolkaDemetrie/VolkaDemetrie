@@ -15,25 +15,9 @@ Here are some ideas to get you started:
 
 <H1>BackEnd Engineer Junho Yun</H1>
 
-<H3>Tech Stack</H3>
+<H3>Notion(Portfolio)</H3>
 <ul>
-  <li>Java</li>
-  <li>Python</li>
-  <li>Spring Framework</li>
-  <li>Oracle</li>
-  <li>PostgreSQL</li>
-
-  <li>FastAPI</li>
-  <li>Maven</li>
-  <li>Gradle</li>
-  <li>HTML</li>
-  <li>Javascript</li>
-  <li>Vue.js</li>
-  <li>Docker</li>
-  <li>Nginx</li>
-  <li>HAProxy</li>
-  <li>mybatis</li>
-  <li>Linux</li>
+  <li href="https://volkademetrie.notion.site/Junho-Yun-5c4355d294744614b04c01a5b935a7a6?pvs=4">My Notion</li>
 </ul>
 
 
