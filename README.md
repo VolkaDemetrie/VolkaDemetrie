@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <H3>Portfolio</H3>
 <ul>
-  <a href="https://volkademetrie.notion.site/Junho-Yun-5c4355d294744614b04c01a5b935a7a6?pvs=4">Notion</a>
+  <a href="https://volkademetrie.notion.site/Junho-Yun-5c4355d294744614b04c01a5b935a7a6?pvs=4">My Notion</a>
 </ul>
 <br/>
 
