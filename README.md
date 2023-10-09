@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 <H1>BackEnd Engineer Junho Yun</H1>
 
 <H3>Portfolio</H3>
-<li><a href="https://volkademetrie.notion.site/Junho-Yun-5c4355d294744614b04c01a5b935a7a6?pvs=4">Notion</a></li>
+<ul>
+  <li href="https://volkademetrie.notion.site/Junho-Yun-5c4355d294744614b04c01a5b935a7a6?pvs=4">Notion</li>
+</ul>
 
 
 <!--<H3>
