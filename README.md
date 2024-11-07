@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <H1>Junho Yun</H1>
-<H2>Software Engineer</H2>
+<H3 style="text-align:right">Software Engineer</H3>
 
 <!-- <H3>Portfolio</H3> --> 
 <H3>Study</H3>
