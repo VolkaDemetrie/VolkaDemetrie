@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<H1>Junho Yun</H1>
-<H3 style="text-align:right">Software Engineer</H3>
+<H1>Junho Yun<p style="text-align:right">Software Engineer</p></H1>
 
 <!-- <H3>Portfolio</H3> --> 
 <H3>Study</H3>
