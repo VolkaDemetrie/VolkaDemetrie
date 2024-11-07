@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Junho Yun Software Engineer
+
+<H1>Junho Yun    <sup>Software Engineer</sup></H1> 
 
 <!-- <H3>Portfolio</H3> --> 
 ### Study
