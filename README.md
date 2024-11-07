@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<H1>BackEnd Engineer Junho Yun</H1>
+<H1>Junho Yun</H1>
+<H2>Software Engineer</H2>
 
-<H3>Portfolio</H3>
+<!-- <H3>Portfolio</H3> --> 
+<H3>Study</H3>
 <ul>
   <a href="https://volkademetrie.notion.site/Junho-Yun-5c4355d294744614b04c01a5b935a7a6?pvs=4">My Notion</a>
 </ul>
