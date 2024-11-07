@@ -12,15 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<H1>Junho Yun <p style="text-align:right">Software Engineer</p></H1>
+# Junho Yun Software Engineer
 
 <!-- <H3>Portfolio</H3> --> 
-<H3>Study</H3>
-<ul>
-  <a href="https://volkademetrie.notion.site/Junho-Yun-5c4355d294744614b04c01a5b935a7a6?pvs=4">My Notion</a>
-</ul>
-<br/>
+### Study
+[My Notion](https://volkademetrie.notion.site/Junho-Yun-5c4355d294744614b04c01a5b935a7a6?pvs=4)
+
 
 
 <!--<H3>
