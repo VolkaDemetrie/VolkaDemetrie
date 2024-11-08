@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<H1>Junho Yun    <sup>Software Engineer</sup></H1> 
+<H1>Junho Yun <sup>Software Engineer</sup></H1>
 
 <!-- <H3>Portfolio</H3> --> 
 ### Study
-[My Notion](https://volkademetrie.notion.site/Junho-Yun-5c4355d294744614b04c01a5b935a7a6?pvs=4)
+- [My Notion](https://volkademetrie.notion.site/Junho-Yun-5c4355d294744614b04c01a5b935a7a6?pvs=4)
 
 
 
