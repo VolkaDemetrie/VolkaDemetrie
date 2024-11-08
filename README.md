@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=soft&height=200&color=gradient&text=Junho%20Yun&reversal=false&textBg=false&fontSize=60&fontAlign=50&animation=fadeIn&desc=Software%20Engineer&descAlign=70&descAlignY=34)
 
-<H1>Junho Yun <sup>Software Engineer</sup></H1>
+<!-- <H1>Junho Yun <sup>Software Engineer</sup></H1> -->
 
 <!-- <H3>Portfolio</H3> --> 
 ### Study
