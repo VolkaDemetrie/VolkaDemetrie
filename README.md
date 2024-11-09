@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=soft&height=200&color=gradient&text=Junho%20Yun&reversal=false&textBg=false&fontSize=60&fontAlign=50&animation=fadeIn&desc=Software%20Engineer&descAlign=70&descAlignY=34)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=0CFF36&background=13131A00&vCenter=true&width=1054&height=100&separator=%3C&lines=System.out.print(%22Hello+World!%22)%3CJunhoYun+me+%3D+Personality.builder().passion().improvement().cooperation().build();)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=800&color=0CFF36&background=13131A00&vCenter=true&width=1054&height=100&separator=%3C&lines=System.out.print(%22Hello+World!%22);%3CJunhoYun+me+%3D+Personality.builder().passion().improvement().cooperation().build();)](https://git.io/typing-svg)
 
 <!-- <H1>Junho Yun <sup>Software Engineer</sup></H1> -->
 
