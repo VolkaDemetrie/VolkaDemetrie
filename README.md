@@ -53,77 +53,81 @@ Here are some ideas to get you started:
 
 <br/>
 
-<h2>Tech Stack</h2>
+## Tech Stack
 <div align="left">
-  <h3>Language</h3>
-  <img src="https://img.shields.io/badge/java-F05032.svg?style=for-the-badge&logo=java&logoColor=FFFFFF" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=FFFFFF" />&nbsp
+  
+  - ### Language  
+    <img src="https://img.shields.io/badge/java-F05032.svg?style=for-the-badge&logo=java&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
+    <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=FFFFFF" />
 </div>
 
 <div align="left">
-  <h3>Framework</h3>
-  <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=FFFFFF" />&nbsp
-  <img src="https://img.shields.io/badge/spring boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=FFFFFF" />&nbsp
-  <img src="https://img.shields.io/badge/spring security-6DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=FFFFFF" />&nbsp
-  <img src="https://img.shields.io/badge/spring cloud-6DB33F.svg?style=for-the-badge&logo=springcloud&logoColor=FFFFFF" />&nbsp
-  <img src="https://img.shields.io/badge/spring webflux-6DB33F.svg?style=for-the-badge&logo=springwebflux&logoColor=FFFFFF" />&nbsp
-  <img src="https://img.shields.io/badge/spring data jpa-6DB33F.svg?style=for-the-badge&logo=springdatajpa&logoColor=FFFFFF" />&nbsp
-  <img src="https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=FFFFFF" />&nbsp
-  <img src="https://img.shields.io/badge/querydsl-2496ED.svg?style=for-the-badge&logo=&logoColor=FFFFFF" />&nbsp
-  <img src="https://img.shields.io/badge/vue.js-4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=FFFFFF" />&nbsp
+  
+  - ### Framework
+    <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/spring boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/spring security-6DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/spring cloud-6DB33F.svg?style=for-the-badge&logo=springcloud&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/spring webflux-6DB33F.svg?style=for-the-badge&logo=springwebflux&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/spring data jpa-6DB33F.svg?style=for-the-badge&logo=springdatajpa&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/querydsl-2496ED.svg?style=for-the-badge&logo=&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/vue.js-4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=FFFFFF" />
 </div>
 
 <div align="left">
-  <h3>Database</h3>
-  <h4>RDBMS</h4>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=FFFFFF" />&nbsp
-  <img src="https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" />&nbsp
-  <img src="https://img.shields.io/badge/oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=FFFFFF" />&nbsp
-  <h4>NoSQL</h4>
-  <img src="https://img.shields.io/badge/redis-FF4438.svg?style=for-the-badge&logo=redis&logoColor=FFFFFF" />&nbsp
-  <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=FFFFFF" />&nbsp
+  
+  - ### Database
+  
+    - #### RDBMS
+        <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=FFFFFF" />
+        <img src="https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" />
+        <img src="https://img.shields.io/badge/oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=FFFFFF" />
+    - #### NoSQL
+        <img src="https://img.shields.io/badge/redis-FF4438.svg?style=for-the-badge&logo=redis&logoColor=FFFFFF" />
+        <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=FFFFFF" />
 </div>
 
 <div align="left">
   <h3>MQ</h3>
-  <img src="https://img.shields.io/badge/kafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=FFFFFF" />&nbsp
-  <img src="https://img.shields.io/badge/rabbitmq-FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/kafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/rabbitmq-FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=FFFFFF" />
 </div>
 
 <div align="left">
   <h3>Infrastructure</h3>
-  <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=FFFFFF" />&nbsp
-  <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=FFFFFF" />&nbsp
-  <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=FFFFFF" />&nbsp
-  <img src="https://img.shields.io/badge/tomcat-F8DC75.svg?style=for-the-badge&logo=apachetomcat&logoColor=000000" />&nbsp
-  <img src="https://img.shields.io/badge/HA Proxy-00549E.svg?style=for-the-badge&logo=haproxy&logoColor=FFFFFF" />&nbsp
-  <img src="https://img.shields.io/badge/netty-5B5F6B.svg?style=for-the-badge&logo=haproxy&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/tomcat-F8DC75.svg?style=for-the-badge&logo=apachetomcat&logoColor=000000" />
+  <img src="https://img.shields.io/badge/HA Proxy-00549E.svg?style=for-the-badge&logo=haproxy&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/netty-5B5F6B.svg?style=for-the-badge&logo=haproxy&logoColor=FFFFFF" />
 </div>
 
 <div align="left">
   <h3>CI/CD</h3>
-  <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=FFFFFF" />
 </div>
 
 <div align="left">
   <h3>VCS</h3>
-  <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=FFFFFF" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=FFFFFF" />&nbsp
-  <img src="https://img.shields.io/badge/gitlab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/gitlab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=FFFFFF" />
 </div>
 
 <div align="left">
   <h3>Tools</h3>
-  <img src="https://img.shields.io/badge/gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=FFFFFF" />&nbsp
-  <img src="https://img.shields.io/badge/maven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=FFFFFF" />&nbsp
-  <img src="https://img.shields.io/badge/intellij-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/maven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/intellij-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=FFFFFF" />
 </div>
 
 <div align="left">
   <h3>CO-OP</h3>
-  <img src="https://img.shields.io/badge/jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=FFFFFF" />&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=FFFFFF" />
 </div>
 
 
@@ -140,6 +144,6 @@ Here are some ideas to get you started:
 <div align="left">
   <a href="mailto:volka5091@gmail.com">
     <img
-      src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
