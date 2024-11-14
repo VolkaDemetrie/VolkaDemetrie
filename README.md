@@ -123,7 +123,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/intellij-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=FFFFFF" />&nbsp
   </div>
 </details>
-<br/>
 
 
 <h2>Study</h2>
