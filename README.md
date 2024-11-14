@@ -57,10 +57,10 @@ Here are some ideas to get you started:
 
 <br/>
 
-<h3>Tech Stack</h3>
+<h2>Tech Stack</h2>
 
 <div align="left">
-  <h4>Framework</h4>
+  <h3>Framework</h3>
   <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=FFFFFF" />&nbsp
   <img src="https://img.shields.io/badge/spring boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=FFFFFF" />&nbsp
   <img src="https://img.shields.io/badge/spring security-6DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=FFFFFF" />&nbsp
@@ -71,18 +71,22 @@ Here are some ideas to get you started:
 </div>
 
 <div align="left">
-  <h4>Infrastructure</h4>
+  <h3>RDBMS</h3>
+  <h3>NoSQL</h3>
+</div>
+
+<div align="left">
+  <h3>Infrastructure</h3>
   <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=FFFFFF" />&nbsp
   <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=FFFFFF" />&nbsp
   <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=FFFFFF" />&nbsp
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75.svg?style=for-the-badge&logo=apachetomcat&logoColor=000000" />&nbsp
   <img src="https://img.shields.io/badge/HA Proxy-00549E.svg?style=for-the-badge&logo=haproxy&logoColor=FFFFFF" />&nbsp
   <img src="https://img.shields.io/badge/netty-5B5F6B.svg?style=for-the-badge&logo=haproxy&logoColor=FFFFFF" />&nbsp
-  
 </div>
 
 <div align="left">
-  <h4>Language</h4>
+  <h3>Language</h3>
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
 </div>
 
