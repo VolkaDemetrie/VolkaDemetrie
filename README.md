@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <div align="center">
   <!-- git stats -->
   <a href="https://github.com/VolkaDemetrie">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VolkaDemetrie&theme=merko&show_icons=true" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VolkaDemetrie&theme=merko&show_icons=true&count_private=true" />
   </a>
 
   <!-- language chart -->
@@ -120,5 +120,16 @@ Here are some ideas to get you started:
 </div>
 
 
-### Study
-- [My Notion](https://volkademetrie.notion.site/Junho-Yun-5c4355d294744614b04c01a5b935a7a6?pvs=4)
+<h2>Study</h2>
+<a href="https://volkademetrie.notion.site/Junho-Yun-5c4355d294744614b04c01a5b935a7a6?pvs=4">
+  <img src="https://img.shields.io/badge/notion-FFFFFF.svg?style=for-the-badge&logo=notion&logoColor=000000" />
+</a>
+
+
+<h2 align="center">Contact</h3>
+<div align="center">
+  <a href="mailto:volka5091@gmail.com">
+    <img
+      src="https://img.shields.io/badge/volka5091@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+</div>
