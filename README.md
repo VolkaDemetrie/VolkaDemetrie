@@ -72,6 +72,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/spring data jpa-6DB33F.svg?style=for-the-badge&logo=springdatajpa&logoColor=FFFFFF" />&nbsp
   <img src="https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=FFFFFF" />&nbsp
   <img src="https://img.shields.io/badge/querydsl-2496ED.svg?style=for-the-badge&logo=&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/vue.js-4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=FFFFFF" />&nbsp
 </div>
 
 <div align="left">
