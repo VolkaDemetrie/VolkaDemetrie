@@ -90,49 +90,55 @@ Here are some ideas to get you started:
 </div>
 
 <div align="left">
-  <h3>MQ</h3>
-  <img src="https://img.shields.io/badge/kafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/rabbitmq-FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=FFFFFF" />
+  
+  - ### MQ
+    <img src="https://img.shields.io/badge/kafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/rabbitmq-FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=FFFFFF" />
 </div>
 
 <div align="left">
-  <h3>Infrastructure</h3>
-  <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/tomcat-F8DC75.svg?style=for-the-badge&logo=apachetomcat&logoColor=000000" />
-  <img src="https://img.shields.io/badge/HA Proxy-00549E.svg?style=for-the-badge&logo=haproxy&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/netty-5B5F6B.svg?style=for-the-badge&logo=haproxy&logoColor=FFFFFF" />
+  
+  - ### Infrastructure
+    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/tomcat-F8DC75.svg?style=for-the-badge&logo=apachetomcat&logoColor=000000" />
+    <img src="https://img.shields.io/badge/HA Proxy-00549E.svg?style=for-the-badge&logo=haproxy&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/netty-5B5F6B.svg?style=for-the-badge&logo=haproxy&logoColor=FFFFFF" />
 </div>
 
 <div align="left">
-  <h3>CI/CD</h3>
-  <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=FFFFFF" />
+  
+  - ### CI/CD
+    <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=FFFFFF" />
 </div>
 
 <div align="left">
-  <h3>VCS</h3>
-  <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/gitlab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=FFFFFF" />
+  
+  - ### VCS
+    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/gitlab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=FFFFFF" />
 </div>
 
 <div align="left">
-  <h3>Tools</h3>
+  
+  - ### Tools
   <img src="https://img.shields.io/badge/gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/maven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/intellij-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=FFFFFF" />
 </div>
 
 <div align="left">
-  <h3>CO-OP</h3>
+  
+  - ### CO-OP
   <img src="https://img.shields.io/badge/jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=FFFFFF" />
 </div>
 
 
 
-<h2>Study</h2>
+## Study
 <a href="https://volkademetrie.notion.site/Junho-Yun-5c4355d294744614b04c01a5b935a7a6?pvs=4">
   <img src="https://img.shields.io/badge/notion-FFFFFF.svg?style=for-the-badge&logo=notion&logoColor=000000" />
 </a>
@@ -140,7 +146,7 @@ Here are some ideas to get you started:
 <br/>
 
 
-<h2 align="left">Contact</h3>
+## Contact
 <div align="left">
   <a href="mailto:volka5091@gmail.com">
     <img
