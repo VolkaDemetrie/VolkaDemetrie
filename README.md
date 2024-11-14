@@ -60,6 +60,12 @@ Here are some ideas to get you started:
 <h2>Tech Stack</h2>
 
 <div align="left">
+  <h3>Language</h3>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=FFFFFF" />&nbsp
+</div>
+
+<div align="left">
   <h3>Framework</h3>
   <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=FFFFFF" />&nbsp
   <img src="https://img.shields.io/badge/spring boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=FFFFFF" />&nbsp
@@ -84,7 +90,7 @@ Here are some ideas to get you started:
 
 <div align="left">
   <h3>MQ</h3>
-  <img src="https://img.shields.io/badge/kafka-231F20.svg?style=for-the-badge&logo=kafka&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/apache kafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=FFFFFF" />&nbsp
   <img src="https://img.shields.io/badge/rabbitmq-FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=FFFFFF" />&nbsp
 </div>
 
@@ -99,14 +105,21 @@ Here are some ideas to get you started:
 </div>
 
 <div align="left">
-  <h3>tools</h3>
-  <img src="https://img.shields.io/badge/gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=FFFFFF" />&nbsp
-  <img src="https://img.shields.io/badge/maven-C71A36.svg?style=for-the-badge&logo=maven&logoColor=FFFFFF" />&nbsp
+  <h3>CI/CD</h3>
+  <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=FFFFFF" />&nbsp
 </div>
 
 <div align="left">
-  <h3>Language</h3>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+  <h3>VCS</h3>
+  <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/gitlab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=FFFFFF" />&nbsp
+</div>
+
+<div align="left">
+  <h3>Tools</h3>
+  <img src="https://img.shields.io/badge/gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/maven-C71A36.svg?style=for-the-badge&logo=maven&logoColor=FFFFFF" />&nbsp
 </div>
 
 
