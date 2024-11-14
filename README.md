@@ -46,10 +46,10 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/VolkaDemetrie">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VolkaDemetrie&theme=merko&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VolkaDemetrie&theme=merko&show_icons=true" />
 </a>
 
 
 <a href="https://github.com/VolkaDemetrie">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VolkaDemetrie&theme=dark&layout=donut&hide=css,html" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VolkaDemetrie&theme=dark&layout=donut&hide=css,html&card_width=320" />
 </a>
