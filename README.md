@@ -44,33 +44,8 @@ Here are some ideas to get you started:
 - [My Notion](https://volkademetrie.notion.site/Junho-Yun-5c4355d294744614b04c01a5b935a7a6?pvs=4)
 
 
-
-<!--<H3>
-  Mainly used
-</H3>
-<H4>Language</H4>
-<ul>
-  <li>Java</li>
-</ul>
-<H4>Server</H4>
-<ul>
-  <li>Nginx</li>
-  <li>Tomcat</li>
-</ul>
-<H4>Framework</H4>
-<ul>
-  <li>Spring</li>
-  <li>Spring boot</li>
-</ul>
-<H3>
-  Sub
-</H3>
-<H4>Language</H4>
-<ul>
-  <li>Python</li>
-</ul>-->
-
+<!-- git stats -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VolkaDemetrie&theme=merko&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VolkaDemetrie&hide=css,html)
-
+<!-- language chart-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VolkaDemetrie&layout=donut&hide=css,html)
