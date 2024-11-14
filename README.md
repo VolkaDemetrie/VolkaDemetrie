@@ -36,17 +36,56 @@ Here are some ideas to get you started:
 
 <br/>
 
-<!-- git stats -->
-<a href="https://github.com/VolkaDemetrie">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VolkaDemetrie&theme=merko&show_icons=true" />
-</a>
 
-<!-- language chart -->
-<a href="https://github.com/VolkaDemetrie">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VolkaDemetrie&theme=dark&layout=donut&hide=css,html&card_width=320" />
-</a>
+
+<div align="center">
+  <!-- git stats -->
+  <a href="https://github.com/VolkaDemetrie">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VolkaDemetrie&theme=merko&show_icons=true" />
+  </a>
+
+  <!-- language chart -->
+  <a href="https://github.com/VolkaDemetrie">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VolkaDemetrie&theme=dark&layout=donut&hide=css,html&card_width=320" />
+  </a>
+</div>
+
+
+
+
+
 
 <br/>
+
+<h3>Tech Stack</h3>
+
+<div align="left">
+  <h4>Framework</h4>
+  <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/spring boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/spring security-6DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/spring cloud-6DB33F.svg?style=for-the-badge&logo=springcloud&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/spring webflux-6DB33F.svg?style=for-the-badge&logo=springwebflux&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/spring data jpa-6DB33F.svg?style=for-the-badge&logo=springdatajpa&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=FFFFFF" />&nbsp
+</div>
+
+<div align="left">
+  <h4>Infrastructure</h4>
+  <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/apache tomcat-F8DC75.svg?style=for-the-badge&logo=apachetomcat&logoColor=000000" />&nbsp
+  <img src="https://img.shields.io/badge/HA Proxy-00549E.svg?style=for-the-badge&logo=haproxy&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/netty-5B5F6B.svg?style=for-the-badge&logo=haproxy&logoColor=FFFFFF" />&nbsp
+  
+</div>
+
+<div align="left">
+  <h4>Language</h4>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+</div>
+
 
 ### Study
 - [My Notion](https://volkademetrie.notion.site/Junho-Yun-5c4355d294744614b04c01a5b935a7a6?pvs=4)
