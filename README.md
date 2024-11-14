@@ -51,16 +51,13 @@ Here are some ideas to get you started:
 </div>
 
 
-
-
-
-
 <br/>
 
 <h2>Tech Stack</h2>
 
 <div align="left">
   <h3>Language</h3>
+  <img src="https://img.shields.io/badge/java-F05032.svg?style=for-the-badge&logo=java&logoColor=FFFFFF" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=FFFFFF" />&nbsp
 </div>
