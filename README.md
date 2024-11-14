@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 
 <div align="left">
   <h3>MQ</h3>
-  <img src="https://img.shields.io/badge/apache kafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/kafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=FFFFFF" />&nbsp
   <img src="https://img.shields.io/badge/rabbitmq-FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=FFFFFF" />&nbsp
 </div>
 
@@ -97,7 +97,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=FFFFFF" />&nbsp
   <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=FFFFFF" />&nbsp
   <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=FFFFFF" />&nbsp
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75.svg?style=for-the-badge&logo=apachetomcat&logoColor=000000" />&nbsp
+  <img src="https://img.shields.io/badge/tomcat-F8DC75.svg?style=for-the-badge&logo=apachetomcat&logoColor=000000" />&nbsp
   <img src="https://img.shields.io/badge/HA Proxy-00549E.svg?style=for-the-badge&logo=haproxy&logoColor=FFFFFF" />&nbsp
   <img src="https://img.shields.io/badge/netty-5B5F6B.svg?style=for-the-badge&logo=haproxy&logoColor=FFFFFF" />&nbsp
 </div>
@@ -117,7 +117,8 @@ Here are some ideas to get you started:
 <div align="left">
   <h3>Tools</h3>
   <img src="https://img.shields.io/badge/gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=FFFFFF" />&nbsp
-  <img src="https://img.shields.io/badge/maven-C71A36.svg?style=for-the-badge&logo=maven&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/maven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/intellij-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=FFFFFF" />&nbsp
 </div>
 
 
