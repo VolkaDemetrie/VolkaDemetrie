@@ -71,8 +71,20 @@ Here are some ideas to get you started:
 </div>
 
 <div align="left">
-  <h3>RDBMS</h3>
-  <h3>NoSQL</h3>
+  <h3>Database</h3>
+  <h4>RDBMS</h4>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=FFFFFF" />&nbsp
+  <h4>NoSQL</h4>
+  <img src="https://img.shields.io/badge/redis-FF4438.svg?style=for-the-badge&logo=redis&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=FFFFFF" />&nbsp
+</div>
+
+<div align="left">
+  <h3>MQ</h3>
+  <img src="https://img.shields.io/badge/kafka-231F20.svg?style=for-the-badge&logo=kafka&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/rabbitmq-FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=FFFFFF" />&nbsp
 </div>
 
 <div align="left">
@@ -83,6 +95,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75.svg?style=for-the-badge&logo=apachetomcat&logoColor=000000" />&nbsp
   <img src="https://img.shields.io/badge/HA Proxy-00549E.svg?style=for-the-badge&logo=haproxy&logoColor=FFFFFF" />&nbsp
   <img src="https://img.shields.io/badge/netty-5B5F6B.svg?style=for-the-badge&logo=haproxy&logoColor=FFFFFF" />&nbsp
+</div>
+
+<div align="left">
+  <h3>tools</h3>
+  <img src="https://img.shields.io/badge/gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/maven-C71A36.svg?style=for-the-badge&logo=maven&logoColor=FFFFFF" />&nbsp
 </div>
 
 <div align="left">
