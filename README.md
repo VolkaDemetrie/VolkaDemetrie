@@ -44,8 +44,12 @@ Here are some ideas to get you started:
 - [My Notion](https://volkademetrie.notion.site/Junho-Yun-5c4355d294744614b04c01a5b935a7a6?pvs=4)
 
 
-<!-- git stats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VolkaDemetrie&theme=merko&show_icons=true)
 
-<!-- language chart-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VolkaDemetrie&layout=donut&hide=css,html)
+<a href="https://github.com/VolkaDemetrie">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VolkaDemetrie&theme=merko&show_icons=true" />
+</a>
+
+
+<a href="https://github.com/VolkaDemetrie">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VolkaDemetrie&theme=dark&layout=donut&hide=css,html" />
+</a>
