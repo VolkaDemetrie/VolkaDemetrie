@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-## Tech Stack
+# Tech Stack
 <div align="left">
   
   - ### Language  
@@ -138,7 +138,7 @@ Here are some ideas to get you started:
 
 
 
-## Study
+# Study
 <a href="https://volkademetrie.notion.site/Junho-Yun-5c4355d294744614b04c01a5b935a7a6?pvs=4">
   <img src="https://img.shields.io/badge/notion-FFFFFF.svg?style=for-the-badge&logo=notion&logoColor=000000" />
 </a>
@@ -146,7 +146,7 @@ Here are some ideas to get you started:
 <br/>
 
 
-## Contact
+# Contact
 <div align="left">
   <a href="mailto:volka5091@gmail.com">
     <img
