@@ -124,16 +124,16 @@ Here are some ideas to get you started:
 <div align="left">
   
   - ### Tools
-  <img src="https://img.shields.io/badge/gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/maven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/intellij-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/maven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/intellij-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=FFFFFF" />
 </div>
 
 <div align="left">
   
   - ### CO-OP
-  <img src="https://img.shields.io/badge/jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=FFFFFF" />
 </div>
 
 
