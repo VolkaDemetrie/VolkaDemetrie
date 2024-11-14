@@ -72,5 +72,5 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VolkaDemetrie&theme=merko&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=css,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VolkaDemetrie&hide=css,html)
 
