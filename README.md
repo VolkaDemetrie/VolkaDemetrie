@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <!-- banner -->
 <div align="center">
-  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=transparent&height=200&theme=merko&text=Junho%20Yun&reversal=false&textBg=false&fontSize=60&fontAlign=50&animation=fadeIn&desc=Software%20Engineer&descAlign=70&descAlignY=34" />
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=transparent&height=200&theme=merko&text=Junho%20Yun&reversal=false&textBg=false&fontSize=90&fontAlign=50&animation=fadeIn&desc=Software%20Engineer&descAlign=75&descAlignY=30" />
 </div>
 
 
