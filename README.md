@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <!-- typing words -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=700&color=0CFF36&background=13131A00&vCenter=true&width=1054&height=100&separator=%3C&lines=System.out.print(%22Hello+World!%22);%3CJunhoYun+me+%3D+Personality.builder().passion().improvement().cooperation().build();" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=700&color=0CFF36&background=13131A00&vCenter=true&width=1054&height=100&separator=%3C&lines=System.out.print(%22Hello+World!%22);%3CPersonality+me+%3D+Personality.builder().passion().improvement().cooperation().build();" alt="Typing SVG" /></a>
 </div>
 
 <br/>
