@@ -36,19 +36,20 @@ Here are some ideas to get you started:
 
 <br/>
 
-
-
-<div align="center">
+<a>
   <!-- git stats -->
   <a href="https://github.com/VolkaDemetrie">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VolkaDemetrie&theme=merko&show_icons=true&count_private=true" />
+    <img height=200 width=40% align="center" src="https://github-readme-stats.vercel.app/api?username=VolkaDemetrie&theme=merko&show_icons=false&count_private=true" />
   </a>
 
   <!-- language chart -->
   <a href="https://github.com/VolkaDemetrie">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VolkaDemetrie&theme=dark&layout=donut&hide=css,html&card_width=320" />
+    <img height=200 width=30% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VolkaDemetrie&theme=dark&layout=donut&hide=css,html&card_width=320" />
   </a>
-</div>
+</a>
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=VolkaDemetrie)
 
 
 <br/>
