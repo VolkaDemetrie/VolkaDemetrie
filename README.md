@@ -57,10 +57,12 @@ Here are some ideas to get you started:
 # Tech Stack
 <div align="left">
   
-  - ### Language  
-    <img src="https://img.shields.io/badge/java-F05032.svg?style=for-the-badge&logo=java&logoColor=FFFFFF" />
-    <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
-    <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=FFFFFF" />
+  - ### Language
+    - #### Major
+      <img src="https://img.shields.io/badge/java-F05032.svg?style=for-the-badge&logo=java&logoColor=FFFFFF" />
+    - #### Minor
+      <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
+      <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=FFFFFF" />
 </div>
 
 <div align="left">
