@@ -59,24 +59,29 @@ Here are some ideas to get you started:
   
   - ### Language
     - #### Major
-      <img src="https://img.shields.io/badge/java-F05032.svg?style=for-the-badge&logo=java&logoColor=FFFFFF" />
+      <img src="https://img.shields.io/badge/java-F05032.svg?style=for-the-badge&logo=openjdk&logoColor=000000" />
     - #### Minor
-      <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
       <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=FFFFFF" />
+      <img src="https://img.shields.io/badge/go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=FFFFFF" />
+      <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
+      <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=FFFFFF" />
 </div>
 
 <div align="left">
   
   - ### Framework
-    <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=FFFFFF" />
-    <img src="https://img.shields.io/badge/spring boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=FFFFFF" />
-    <img src="https://img.shields.io/badge/spring security-6DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=FFFFFF" />
-    <img src="https://img.shields.io/badge/spring cloud-6DB33F.svg?style=for-the-badge&logo=springcloud&logoColor=FFFFFF" />
-    <img src="https://img.shields.io/badge/spring webflux-6DB33F.svg?style=for-the-badge&logo=springwebflux&logoColor=FFFFFF" />
-    <img src="https://img.shields.io/badge/spring data jpa-6DB33F.svg?style=for-the-badge&logo=springdatajpa&logoColor=FFFFFF" />
-    <img src="https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=FFFFFF" />
-    <img src="https://img.shields.io/badge/querydsl-2496ED.svg?style=for-the-badge&logo=&logoColor=FFFFFF" />
-    <img src="https://img.shields.io/badge/vue.js-4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=FFFFFF" />
+    - #### Backend
+      <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=FFFFFF" />
+      <img src="https://img.shields.io/badge/spring boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=FFFFFF" />
+      <img src="https://img.shields.io/badge/spring security-6DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=FFFFFF" />
+      <img src="https://img.shields.io/badge/spring cloud-6DB33F.svg?style=for-the-badge&logo=springcloud&logoColor=FFFFFF" />
+      <img src="https://img.shields.io/badge/spring webflux-6DB33F.svg?style=for-the-badge&logo=springwebflux&logoColor=FFFFFF" />
+      <img src="https://img.shields.io/badge/spring data jpa-6DB33F.svg?style=for-the-badge&logo=springdatajpa&logoColor=FFFFFF" />
+      <img src="https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=FFFFFF" />
+      <img src="https://img.shields.io/badge/querydsl-2496ED.svg?style=for-the-badge&logo=&logoColor=FFFFFF" />
+    - #### Frontend
+      <img src="https://img.shields.io/badge/vue.js-4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=FFFFFF" />
+      <img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=FFFFFF" />
 </div>
 
 <div align="left">
@@ -105,8 +110,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=FFFFFF" />
     <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=FFFFFF" />
     <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=FFFFFF" />
-    <img src="https://img.shields.io/badge/tomcat-F8DC75.svg?style=for-the-badge&logo=apachetomcat&logoColor=000000" />
     <img src="https://img.shields.io/badge/HA Proxy-00549E.svg?style=for-the-badge&logo=haproxy&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/tomcat-F8DC75.svg?style=for-the-badge&logo=apachetomcat&logoColor=000000" />
     <img src="https://img.shields.io/badge/netty-5B5F6B.svg?style=for-the-badge&logo=haproxy&logoColor=FFFFFF" />
 </div>
 
@@ -114,6 +119,7 @@ Here are some ideas to get you started:
   
   - ### CI/CD
     <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/argo-EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=FFFFFF" />
 </div>
 
 <div align="left">
@@ -126,10 +132,9 @@ Here are some ideas to get you started:
 
 <div align="left">
   
-  - ### Tools
+  - ### Build Tools
     <img src="https://img.shields.io/badge/gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=FFFFFF" />
     <img src="https://img.shields.io/badge/maven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=FFFFFF" />
-    <img src="https://img.shields.io/badge/intellij-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=FFFFFF" />
 </div>
 
 <div align="left">
